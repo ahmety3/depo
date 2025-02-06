@@ -1,0 +1,10 @@
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\bin\Debug\BiletYönetimSistemi.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\bin\Debug\BiletYönetimSistemi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\bin\Debug\BiletYönetimSistemi.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.Form1.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\BiletYönetimSistemi\BiletYönetimSistemi\obj\Debug\BiletYönetimSistemi.pdb
