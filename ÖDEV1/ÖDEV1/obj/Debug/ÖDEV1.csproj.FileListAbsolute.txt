@@ -1,0 +1,10 @@
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\bin\Debug\ÖDEV1.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\bin\Debug\ÖDEV1.exe
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\bin\Debug\ÖDEV1.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.Form1.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.exe
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\ÖDEV1\ÖDEV1\obj\Debug\ÖDEV1.pdb
