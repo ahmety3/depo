@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\bin\Debug\FormlarArasiVeriTasima-Ödev16.exe.config
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\bin\Debug\FormlarArasiVeriTasima-Ödev16.exe
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\bin\Debug\FormlarArasiVeriTasima-Ödev16.pdb
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima-Ödev16.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima_Ödev16.Form1.resources
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima_Ödev16.Form2.resources
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima_Ödev16.Properties.Resources.resources
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima-Ödev16.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima-Ödev16.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima-Ödev16.exe
+C:\Users\ahmet\source\repos\FormlarArasiVeriTasima-Ödev16\FormlarArasiVeriTasima-Ödev16\obj\Debug\FormlarArasiVeriTasima-Ödev16.pdb

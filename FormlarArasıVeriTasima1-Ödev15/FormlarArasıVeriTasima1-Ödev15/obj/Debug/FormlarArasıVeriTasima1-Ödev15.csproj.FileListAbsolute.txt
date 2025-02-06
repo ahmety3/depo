@@ -1,0 +1,22 @@
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\bin\Debug\FormlarArasıVeriTasima1-Ödev15.exe.config
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\bin\Debug\FormlarArasıVeriTasima1-Ödev15.exe
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\bin\Debug\FormlarArasıVeriTasima1-Ödev15.pdb
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1_Ödev15.Form1.resources
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1_Ödev15.Form2.resources
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1_Ödev15.Properties.Resources.resources
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.exe
+C:\Users\ahmet\source\repos\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\bin\Debug\FormlarArasıVeriTasima1-Ödev15.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\bin\Debug\FormlarArasıVeriTasima1-Ödev15.exe
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\bin\Debug\FormlarArasıVeriTasima1-Ödev15.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1_Ödev15.Form1.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1_Ödev15.Form2.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1_Ödev15.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.exe
+C:\Users\ahmet\OneDrive\Masaüstü\0\Ahmet\Yazılım\C# Yazılım\C#Antreman1\FormlarArasıVeriTasima1-Ödev15\FormlarArasıVeriTasima1-Ödev15\obj\Debug\FormlarArasıVeriTasima1-Ödev15.pdb
